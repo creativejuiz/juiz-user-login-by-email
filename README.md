@@ -23,15 +23,17 @@ Lightweight plugin, no options, just activate it and it works!
 French version
 ---------------
 
-<div lang="fr_FR">Ajoute la possibilité pour un utilisateur de se connecter avec son adresse e-mail OU son identifiant.
-Utilise les fonctions natives de WordPress.
-Plugin léger, aucune option, il suffit de l'activer et ça marche.
+<div lang="fr_FR"><p>Ajoute la possibilité pour un utilisateur de se connecter avec son adresse e-mail OU son identifiant.</p>
+<p>Utilise les fonctions natives de WordPress.<br>
+Plugin léger, aucune option, il suffit de l'activer et ça marche.</p>
 
-**Langues disponibles :**
+<p><strong>Langues disponibles :</strong></p>
 
-* Allemand
-* Anglais
-* Espagnol
-* Français
-* Russe
+<ul>
+<li>Allemand</li>
+<li>Anglais</li>
+<li>Espagnol</li>
+<li>Français</li>
+<li>Russe</li>
+</ul>
 </div>
