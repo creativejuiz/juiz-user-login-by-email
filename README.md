@@ -1,4 +1,4 @@
-Juiz User Log-in by Email
+Juiz User Log-in by Email v1.0.1
 ========================
 WordPress Plugin
 ---------------
